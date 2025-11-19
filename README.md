@@ -122,3 +122,4 @@ Face Recognition Attendance System
 ## 📜 License
 
 This project is open-source. You may modify or distribute it freely.
+.venv\Scripts\activate
